@@ -184,11 +184,6 @@ user_id,academic_year,branch,skills,...,recommended_format,recommended_courses,r
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 ## 🙏 Acknowledgments
 
